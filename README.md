@@ -1,7 +1,7 @@
 # The RankAgg module
 This Python module implements different rank aggregation methods, ready to be applied to Network Meta-Analysis (NMA) datasets. This module has been used to compute the results in the paper:
 
-[insert citation]
+[this paper by Crisafulli et al. is still a work in progress]
 
 In the example notebook, we use the same data used by the paper, extracted from a study by Leicht et al.:
 
